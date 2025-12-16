@@ -1,4 +1,6 @@
 FROM mcr.microsoft.com/playwright/python:v1.48.0-focal
+ARG CACHEBUST=1
+
 
 WORKDIR /app
 
