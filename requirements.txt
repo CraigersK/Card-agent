@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
-pydantic
 playwright
+pandas
+openpyxl
+python-dateutil
 python-multipart
-
